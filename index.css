@@ -1,0 +1,18 @@
+*{
+    border: 1px solid black;
+    padding: 2vh;
+    justify-content: center;
+    text-align: center;
+}
+#calendario{
+display: flex;
+}
+.semanaDiaFia{
+    background-color: rgb(255, 218, 230);
+}
+.DIA{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
